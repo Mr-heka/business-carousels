@@ -1,0 +1,149 @@
+[
+  {
+    "id": "01-plumbing",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Use case: ads-marketing. Create ONE premium finished Instagram carousel cover, portrait 4:5. Fictional plumbing business educational cover. Completely integrated layout, photographic craft and sparse precise typography. Deep midnight navy background, acid lime accents, white condensed sturdy sans serif headline in upper left taking top third, ample clear space. Exact headline: \"YOUR DRAIN KEEPS BLOCKING.\" second smaller line \"HERE’S WHY.\" Hero lower half: stunning photorealistic sliced-open grey PVC drain elbow showing grease buildup, a small mass of roots entering a visible cracked joint; realistic water and copper fixtures, black satin studio table, dramatic rim light. One fine lime technical pointer from label \"ROOTS\" to roots at cracked joint; another label \"BUILDUP\" pointing to interior deposit. Tiny upper label \"PLUMBING / EXPLAINED\". High-end technical product photography meets trade magazine. Avoid invented business logo, extra paragraphs, cartoon, random gibberish labels, generic boxes. All essential copy legible at phone scale, balanced margins. This is an illustrative cutaway not installation instructions."
+      }
+    ]
+  },
+  {
+    "id": "02-roofing",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create one finished Instagram carousel cover portrait 4:5, sophisticated roofing education for a fictional trade business, radically different from a plumbing studio cutaway. Cool pale grey background, slate blue technical drawing lines and vivid safety-orange accents. Top third bold squared geometric sans typography black exact headline \"A LEAK ISN’T ALWAYS\" / \"WHERE THE STAIN IS.\" Orange short thick underline under \"STAIN\". Lower two-thirds a detailed elegant isometric miniature residential pitched roof with real charcoal tiles, a portion elegantly exploded in layers: tiles, waterproof membrane, timber rafters; ceiling section beneath with a small orange-brown stain. A thin orange dashed path starts at a gap near a roof flashing on the upper left, visibly travels down a slanted rafter then falls onto an offset ceiling stain on lower right, explaining water can travel. Concise two labels \"ENTRY POINT\" and \"CEILING STAIN\" with accurate pointers to corresponding separate points. One small orange inset droplet magnification showing flashing seam. Tiny upper kicker \"ROOFING / EXPLAINED\". High-end architecture competition render meets disciplined engineering infographic, tactile materials, physically plausible sloped roof, clear hierarchy and generous whitespace, no person, no brand name, no paragraphs, no random additional text. Illustrative diagram, not site-specific repair instructions."
+      }
+    ]
+  },
+  {
+    "id": "03-skincare",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create ONE premium complete Instagram carousel cover portrait 4:5 for fictional skincare product business. Totally different composition/style from trade infographics. Warm ivory paper-like background, pale sage green glass bottle and cream ceramic lotion jar, subtle olive shadows, quiet editorial beauty photography. Elegant dark olive high-contrast serif typography at top, modest scale luxury spacing; exact headline in sentence case: \"Less in your routine.\" / \"More intention.\" Tiny spaced sans-serif kicker \"SKINCARE / SIMPLIFIED\". Sculptural still life lower right: one exquisite frosted pale sage dropper bottle with tiny fictional product label \"DAILY SERUM\", ceramic jar with label \"MOISTURISER\", softly draped linen, dramatic but gentle late afternoon window light and leaf shadow. Two small sparse annotation words \"SERUM\" and \"MOISTURISER\" in refined small sans-serif, delicate olive leader lines each pointing precisely to corresponding item. Plenty of empty space left and above, disciplined fashion-magazine art direction, luxurious realistic surfaces, slightly asymmetric composition. Product styling demo, not clinical outcome claims. No extra logos, no invented real brand, no claims, no circles, no orange, no massive block headlines, no generic diagram panels. Text and photography planned as one polished cover."
+      }
+    ]
+  },
+  {
+    "id": "04-bakery",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create ONE finished Instagram carousel cover portrait4:5 for fictional artisan bakery. Expressive tactile cut-paper collage and exquisite close-up food photography with cobalt blue and buttery yellow palette, distinctly unlike luxury skincare/technical trades. Huge friendly rounded chunky cream typography at top exact headline \"WHY OUR CROISSANTS\" / \"TAKE 3 DAYS.\" Highlight \"3 DAYS\" on a butter-yellow irregular paper strip with blue letters. Main middle/lower hero enormous beautiful photoreal buttery croissant torn open revealing detailed honeycomb crumb, suspended over cobalt paper with tactile torn cream edges. Surround it with precisely THREE small playful process motifs joined by loose hand-drawn cream arrows: flour/dough labelled \"DAY 1 / MIX\", folded butter dough labelled \"DAY 2 / FOLD\", oven or baked croissant labelled \"DAY 3 / BAKE\". Place labels beside each clear scene, no arbitrary extra number badge, generous margins, meaningful flow, warm morning side lighting, appetizing flaky crust, bold graphic bakery personality. Tiny top kicker \"BAKERY / BEHIND THE SCENES\". This is a fictional bakery's staged three-day process, not a claim all croissants require three days. No real logo, no additional copy, no unreadable tiny labels, no dull corporate blocks, no repeated drawings of pipe/roof. Exact legible text part of original image, high craft."
+      }
+    ]
+  },
+  {
+    "id": "05-accountant",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create ONE complete Instagram carousel cover portrait4:5 for fictional accountant educational business. Burgundy and pale peach palette, confident clean financial editorial style, no dull generic financial stock photo. Exact headline upper left in refined heavy wide sans-serif uppercase: \"PROFIT ISN’T\" / \"MONEY IN THE BANK.\" Short pale peach hand-drawn underline beneath \"IN THE BANK\". Tiny kicker \"BUSINESS NUMBERS / EXPLAINED\". On warm peach tabletop lowerhalf create stunning detailed paper-sculpture visual with two contrasting objects side by side: left a raised burgundy invoice card labelled \"PROFIT\" and underneath in small legible type \"SALES − COSTS\"; right a peach/burgundy sculptural open wallet containing a few paper notes, labelled \"CASH\" and below \"MONEY RECEIVED − MONEY PAID\". Between left invoice and wallet a subtle hand-drawn burgundy arrow blocked by a small cream tab reading \"UNPAID INVOICE\", visually showing a recorded sale not yet received, no contradictory automatic transfer depiction. Small book stack/receipt rolls secondary detail, tactile thick card paper, embossing and shadows, plenty of clean negative space around headline. Clean contemporary serif-free typography, crisp words, no currency figures, no financial advice, no app logo, no tiny paragraphs. Diagram qualitative simplified illustration, not a complete accounting formula. Everything integrated from initial design, business-owner phone readability."
+      },
+      {
+        "label": "Targeted edit prompt",
+        "text": "Edit this exact accounting carousel cover with a precise semantic correction only. Keep the headline, photograph, colors, materials, layout and all main labels unchanged. In the center between profit invoice and cash wallet REMOVE the arrow completely. Replace the arrow with a thin dashed burgundy path which STOPS at the left edge of the small UNPAID INVOICE square card; nothing exits the right edge toward the wallet. Put a small simple burgundy pause symbol || on the card under its words to emphasize payment not yet received. The invoice has not become cash. Also remove the tiny decorative slogans on the book spines at right and foreground notebook cover, making those surfaces plain burgundy/peach. Preserve all main exact headline and explanatory labels. No new text. Single finished portrait 4:5 cover."
+      }
+    ]
+  },
+  {
+    "id": "11-electrician",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create ONE finished Instagram carousel COVER, portrait approximately4:5. Fictional Australian business demonstration, no client evidence. Photoreal human-led editorial, not a collage of products. Real human anatomy, believable hands with five fingers, pores, facial texture, fine lines, natural skin pigmentation, flyaway hair, subtle perspiration, realistic body proportions. No plastic skin, excessive retouching, AI fashion-model gloss, uncanny eyes. Integrate sparse exact typography into planned negative space; no text across face or hands. No real corporate logo or invented accreditation. Use Australian environmental details and ordinary local clothing, not flags or national caricatures. Photograph and wording composed as a whole.\nBusiness1: local electrician. Scene a candid environmental portrait of an Australian woman electrician in her late30s, medium tan skin with freckles, dark brown tied-back hair, charcoal cotton work shirt with understated mustard trim, practical work trousers, calm thoughtful expression; standing safely beside CLOSED modern residential switchboard on a shaded Brisbane Queenslander verandah. Weatherboard wall, corrugated roof visible through doorway, morning subtropical light, muted warm ochre/charcoal/white art direction. She holds a plain clipboard with her right hand, looking toward homeowner just off camera, no exposed electrical wiring or unsafe repair. Wide enough to include natural hands and context, portrait in right two-thirds. Left/top negative space contains condensed confident white sans exact headline 'OLD HOUSE.' / 'OLD SWITCHBOARD?' and tiny uppercase kicker 'ELECTRICAL / EXPLAINED'. One restrained ochre brush underline under SWITCHBOARD. A small white leader line with label 'SWITCHBOARD' points to closed cabinet, not person. Honest local service business photo, 35mm documentary capture with subtle grain and natural lens falloff, not advertising stock smiles."
+      }
+    ]
+  },
+  {
+    "id": "12-physio",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create ONE finished Instagram carousel cover portrait4:5 for fictional Australian physiotherapy business. Photoreal human-led documentary editorial, warm authentic Australian suburban practice with timber studio opening onto native planted courtyard, diffuse daylight. A female physiotherapist early40s of East Asian heritage, light warm beige skin with real fine lines, short dark hair, forest-green cotton polo, attentively coaching an Australian male client late50s with light skin showing sun freckles, grey hair and ordinary slightly stocky build, muted blue T-shirt and navy shorts. Both fully clothed. Client sits on a simple bench practicing a controlled sit-to-stand, both feet clearly on floor, leaning forward hands naturally relaxed on thighs; physio nearby gesturing gently toward knee. Candid concentration rather than posed smiles. Real natural skin pores, lines, pigmentation, correct ordinary anatomy and five-finger hands; no plastic retouching, glossy stock models, uncanny eyes. Sage green and warm sand palette, soft rounded contemporary sans typography. Exact headline in clear upper left 'YOUR KNEE HURTS.' / 'WHAT HAPPENS NEXT?' Small kicker 'PHYSIO / FIRST VISIT'. Adequate clean space and body action unblocked. Small three-step strip integrated at bottom reads 'LISTEN → ASSESS → PLAN' with restrained minimal icons. No claims of cure, guaranteed pain relief or diagnosis; no logo/accreditation. Human interaction hero, studio recedes,50mm natural lens. Compose sparse text and scene together from start. No flags or national caricatures, no American corporate clinic styling."
+      }
+    ]
+  },
+  {
+    "id": "13-childcare",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create ONE finished Instagram carousel cover portrait4:5 for fictional Australian childcare business. Premium candid lifestyle editorial photograph in a real-feeling suburban Australian early learning centre outdoor verandah: timber play table, shade cloth, gumtree glimpses, sunlit native garden, small practical sunhats on hooks. Adult Australian male educator early30s with warm medium-brown skin, short tight curly black hair, subtle stubble, sage cotton collared work shirt, seated at child-height table patiently showing a three-year-old child with tan skin and curly dark hair how to assemble chunky wooden blocks; child shown side/back angle, fully clothed in modest ordinary yellow T-shirt and shorts, no identifiable real child. Both focus on blocks with warm calm rapport, not looking at camera. Another female educator blurred deep background, no crowded scene. Natural skin textures, believable adult/child proportions and hands, ordinary people not glossy models. Terracotta, dusty sky blue and warm cream palette, playful but restrained handwritten-looking title with clean rounded sans support. Exact headline in upper left clear space 'THE FIRST DROP-OFF' / 'IS A BIG MOMENT.' Small kicker 'CHILDCARE / STARTING TOGETHER'. One small curved hand-drawn terracotta pointer with label 'A FAMILIAR FACE' landing on educator shirt/shoulder without crossing eyes or hands. Composition has breathing room, people hero lower two-thirds, fine authentic details,35mm sunlit reportage. No American school buses, no European nursery aesthetic, no flags, no brandname, no ratings/accreditations or developmental outcome claims. Photoreal not illustration, sparse text integrated into scene from initial design."
+      }
+    ]
+  },
+  {
+    "id": "14-hair-salon",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create ONE premium finished Instagram carousel cover portrait4:5 for fictional Australian independent hair salon. Authentic extremely realistic candid close-up portrait in a modest stylish Melbourne inner-suburban salon: tiled floor, warm tungsten mirror lights, worn oak cabinetry, subtle federation building detail reflected background. Australian woman client early50s, fair warm skin with realistic freckles, gentle crow'sfeet, fine smile lines, natural hazel eyes, shoulder-length salt-and-pepper curls, relaxed genuine half-smile. Australian male stylist late30s of South Asian heritage, deep warm brown skin, short wavy black hair, plain black tee and dark apron, listening attentively behind client, visible in mirror at a different clear position (no duplicated identity/anatomy errors). Stylist holding ordinary closed comb naturally at waist, no scissors near face. Show real textured curl strands, pores and honest hair colour, no unrealistic beauty retouching. Mocha-neutral background with bold pink/coral accent (not brand brown mandate), luxurious editorial high contrast serif headline, quiet sans kicker. Exact headline in top negative space 'A CUT THAT WORKS' / 'AFTER YOU LEAVE.' Small kicker 'HAIR / THE CONSULTATION'. One single fine coral hand-drawn underline under AFTER. Faces and action dominate middle/lower, sparse text clear, no fake before-after, no promised transformation, no invented celebrity/logo/accreditation, no glossy generic American beauty advertising.85mm shallow-depth editorial lens, subtle filmgrain, intimate attentive moment, text integrated from start."
+      }
+    ]
+  },
+  {
+    "id": "15-cafe",
+    "prompts": [
+      {
+        "label": "Generation prompt",
+        "text": "Create ONE complete Instagram carousel cover portrait4:5 for fictional Australian neighbourhood café. Realistic human-focused earlymorning candid documentary photography of Australian café owner woman late40s, warm olive skin with natural fine lines and pores, short wavy dark hair with a few grey strands, relaxed white cotton T-shirt and faded navy canvas apron; leaning slightly over timber counter sharing a warm candid moment with Australian regular customer man early60s, fair sun-weathered skin, short greying beard, faded teal workshirt, friendly natural expression. Local street café opens to Australian suburban footpath, eucalyptus glimpse, terrazzo counter, ceramic flat-white cup with realistic latteart, grinder, stainless espresso machine receding, morning golden light. No giant product cup, people and rapport central, genuine ordinary anatomy, correct five-finger hands no duplicated cups/fingers. Navy, sunwashed aqua and apricot palette, independent community-magazine clean sans typography with a light loose handwritten apricot underline. Exact top headline 'YOUR MORNING COFFEE.' / 'SOMEONE’S EARLY START.' Small kicker 'CAFÉ / BEHIND THE COUNTER'. Modest typography in upperleft window shadow/clearspace, preserve faces, comfortable margins. No American diner signs or paper mega-cups, no tourist flags, no European café postcard, no real logo or rating, no additional gibberish menu text. Photographicgrain, sweat/skin texture subtle not grotesque,35mm reportage and rich local detail. Sparse integrated composition, cover explains real work/connection not a glossy stockportrait."
+      }
+    ]
+  },
+  {
+    "id": "21-editorial-restrained-bold-final",
+    "prompts": [
+      {
+        "label": "Shared scene direction (production summary)",
+        "text": "vertical editorial scene, ivory background, chocolate Mr Heka palette with Claude orange. Dimensional, realistic materials and integrated brand marks. Reserve clean space for exact headline and number overlays. No generated paragraphs or tiny decorative copy."
+      },
+      {
+        "label": "Scene brief (production summary)",
+        "text": "Orange marble Claude valuation monument, small revenue plinth and broken loss fragment."
+      }
+    ]
+  },
+  {
+    "id": "22-editorial-strong-alternative",
+    "prompts": [
+      {
+        "label": "Scene",
+        "text": "Same generated scene as 21. Only the code-rendered typography changes."
+      }
+    ]
+  },
+  {
+    "id": "23-editorial-light-trial",
+    "prompts": [
+      {
+        "label": "Scene",
+        "text": "Same generated scene as 21. Light headline uses a system sans not bundled here; handwriting stays Gloria Hallelujah."
+      }
+    ]
+  },
+  {
+    "id": "24-interior-illustrative-comparison",
+    "prompts": [
+      {
+        "label": "Scene brief (production summary)",
+        "text": "Two orange dimensional revenue columns, approximately 12× growth, guided by a layout reference."
+      },
+      {
+        "label": "Targeted edit prompt (exact)",
+        "text": "Enhance image1 (revenue comparison scene), using image2 and image3 ONLY for richness of material and photoreal editorial detail. Preserve exactly the two revenue column positions, widths, common baseline and existing height relationship, approx12x, small column left, tall column right. Preserve the cream background and extensive upper and left blank space for exact text overlays. Do not add text or labels. Upgrade flat orange surfaces into luxurious warm orange marble with subtle veins, beveled edges, tangible depth, precise studio highlights and believable shadows like the marble monument in image2. Tall column retains one crisp raised ivory Claude asterisk matching native reference already shown. Small column stays small, no extra logo too large to fit. Add fine architectural detailing to the column edges and a minimal shared ivory stone platform beneath BOTH columns, while keeping bar tops and widths and baseline visually clear. No clutter, no extra numbers, props, computers, money coins or decorative unrelated items. Original two-column comparison remains the entire meaningful visualization; visual quality should match the detail and craftsmanship of the other references without sacrificing readable scale or whitespace. One portrait4:5 editorial background."
+      }
+    ]
+  },
+  {
+    "id": "25-interior-keep-the-qualification",
+    "prompts": [
+      {
+        "label": "Scene brief (production summary)",
+        "text": "Large accounting document stack beside a smaller server block, with distinct visual identities."
+      }
+    ]
+  }
+]

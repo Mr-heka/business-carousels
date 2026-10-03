@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "note": "JPEG copies (quality 90, original resolution) of the PNG originals shipped in the outer package. Hashes refer to the PNG originals.",
+  "examples": [
+    {
+      "id": "01-plumbing",
+      "image": "01-plumbing.jpg",
+      "original_png_sha256": "16f3d3e856ef89790a96cee0dc9241a603bc0fa55a729995faf18c55c474c0b7",
+      "headline": "YOUR DRAIN KEEPS BLOCKING. / HERE’S WHY.",
+      "style": "Photoreal cutaway",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": "A later targeted edit repaired the small kicker line; that edit prompt was not recorded."
+    },
+    {
+      "id": "02-roofing",
+      "image": "02-roofing.jpg",
+      "original_png_sha256": "dcfed06b4f146430559e77309ee54394c356fc100ca6378babb4c78a04be6d23",
+      "headline": "A LEAK ISN’T ALWAYS / WHERE THE STAIN IS.",
+      "style": "Explained diagram",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": ""
+    },
+    {
+      "id": "03-skincare",
+      "image": "03-skincare.jpg",
+      "original_png_sha256": "e0fd25c9534309de637ee64cb49687f607a56a16b2b17db1f5fad3a2ad4626fb",
+      "headline": "Less in your routine. / More intention.",
+      "style": "Quiet editorial",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": ""
+    },
+    {
+      "id": "04-bakery",
+      "image": "04-bakery.jpg",
+      "original_png_sha256": "2658de50a19b4cdca091a6e81d35d753c229c0d2ad0262ecd39c5e16ef199a4a",
+      "headline": "WHY OUR CROISSANTS / TAKE 3 DAYS.",
+      "style": "Playful collage",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": "The three-day process is part of the fictional demonstration, not a verified claim."
+    },
+    {
+      "id": "05-accountant",
+      "image": "05-accountant.jpg",
+      "original_png_sha256": "72afeb8bf7fcf84e12f9abe770edbd72dd1abf4f26f378a58f44d4f03c7510ec",
+      "headline": "PROFIT ISN’T / MONEY IN THE BANK.",
+      "style": "Sculptural explainer",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": ""
+    },
+    {
+      "id": "11-electrician",
+      "image": "11-electrician.jpg",
+      "original_png_sha256": "8953e5a59ec4252c4313279a7ba5bc730aae903a8ab5c79d7de1dc5a7d9b7f94",
+      "headline": "OLD HOUSE. / OLD SWITCHBOARD?",
+      "style": "Human moment",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": ""
+    },
+    {
+      "id": "12-physio",
+      "image": "12-physio.jpg",
+      "original_png_sha256": "3f000be4195977e6989e67f6b4e97591be383f0300600533cca7b25296237da5",
+      "headline": "YOUR KNEE HURTS. / WHAT HAPPENS NEXT?",
+      "style": "Human moment with step strip",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": ""
+    },
+    {
+      "id": "13-childcare",
+      "image": "13-childcare.jpg",
+      "original_png_sha256": "a6bd1fad2cdc0589c435325d7e95321b76c162058df761e0ab8ad301fef846b5",
+      "headline": "THE FIRST DROP-OFF / IS A BIG MOMENT.",
+      "style": "Human moment with hand-drawn pointer",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": ""
+    },
+    {
+      "id": "14-hair-salon",
+      "image": "14-hair-salon.jpg",
+      "original_png_sha256": "c694250869d9b8449ad7fc32c33cf47c4d5e49ce5c710c6ffdd519bb47af596f",
+      "headline": "A CUT THAT WORKS / AFTER YOU LEAVE.",
+      "style": "Human moment, serif editorial",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": ""
+    },
+    {
+      "id": "15-cafe",
+      "image": "15-cafe.jpg",
+      "original_png_sha256": "71989bec35cb43454d6dfffd4619127192e83a75e2bf90434ec2cce125a7ef46",
+      "headline": "YOUR MORNING COFFEE. / SOMEONE’S EARLY START.",
+      "style": "Human moment, neighbourhood reportage",
+      "kind": "cover",
+      "status": "review example, fictional",
+      "image_tool": "Built-in image generation in a Codex session; the file's Content Credentials (C2PA) name ChatGPT / gpt-image as the generator, with no more specific model version",
+      "note": ""
+    },
+    {
+      "id": "21-editorial-restrained-bold-final",
+      "image": "21-editorial-restrained-bold-final.jpg",
+      "original_png_sha256": "78f502862c0c82880e8ac9f6725664e858b96a5c1d7489d613f3096d7c34d581",
+      "headline": "$2 TRILLION / IPO?",
+      "style": "Restrained bold (final)",
+      "kind": "cover",
+      "status": "Real company, reported figures. Brand marks are dimensional editorial recreations of genuine references.",
+      "image_tool": "Built-in image generation (underlying image model ID not exposed) for the scene; headline, figures and handwriting rendered in code from the Anton and Gloria Hallelujah font files",
+      "note": "Selected final cover of an eight-slide deck. The sculpture heights are not to scale. Figures attributed to a Reuters report dated 28 September 2026 (USD, 2025 financial year). They belong to that dated source; do not reuse them for another topic."
+    },
+    {
+      "id": "22-editorial-strong-alternative",
+      "image": "22-editorial-strong-alternative.jpg",
+      "original_png_sha256": "890a60e3e9c9f8936c836b42682f4a1acb5cb8e1859c2693b7949797e6df8933",
+      "headline": "$2 TRILLION IPO?",
+      "style": "Strong editorial (alternative)",
+      "kind": "cover",
+      "status": "As 21.",
+      "image_tool": "Built-in image generation (underlying image model ID not exposed) for the scene; headline, figures and handwriting rendered in code from the Anton and Gloria Hallelujah font files",
+      "note": "Comparison study, not selected. Figures attributed to a Reuters report dated 28 September 2026 (USD, 2025 financial year). They belong to that dated source; do not reuse them for another topic."
+    },
+    {
+      "id": "23-editorial-light-trial",
+      "image": "23-editorial-light-trial.jpg",
+      "original_png_sha256": "30310867dd44adbc45c038048fd2028713688e153a4d9dc3aa2e7db917da249c",
+      "headline": "$2 trillion / IPO?",
+      "style": "Light editorial (trial)",
+      "kind": "cover",
+      "status": "As 21.",
+      "image_tool": "Built-in image generation (underlying image model ID not exposed) for the scene; headline, figures and handwriting rendered in code from the Anton and Gloria Hallelujah font files",
+      "note": "Trial, not selected. Figures attributed to a Reuters report dated 28 September 2026 (USD, 2025 financial year). They belong to that dated source; do not reuse them for another topic."
+    },
+    {
+      "id": "24-interior-illustrative-comparison",
+      "image": "24-interior-illustrative-comparison.jpg",
+      "original_png_sha256": "0f6f1e8a25d513251989227d4d06cd0888fc23bc1814adabfa602c642ecdd9cf",
+      "headline": "REVENUE GREW / 12x.",
+      "style": "Sculptural data, labelled illustrative",
+      "kind": "interior",
+      "status": "As 21.",
+      "image_tool": "Built-in image generation (underlying image model ID not exposed) for the scene; headline, figures and handwriting rendered in code from the Anton and Gloria Hallelujah font files",
+      "note": "Interior slide 2 of the final deck. $386M to about $4.6B is roughly 12x; the columns are labelled 'Illustrative comparison'. Figures attributed to a Reuters report dated 28 September 2026 (USD, 2025 financial year). They belong to that dated source; do not reuse them for another topic."
+    },
+    {
+      "id": "25-interior-keep-the-qualification",
+      "image": "25-interior-keep-the-qualification.jpg",
+      "original_png_sha256": "8aae3ba697c3742f0f773b1535c770408935d44f0fcbf685c87a2311252d691f",
+      "headline": "$42B LOST. / BUT LOOK CLOSER.",
+      "style": "Sculptural data that keeps the qualification",
+      "kind": "interior",
+      "status": "As 21.",
+      "image_tool": "Built-in image generation (underlying image model ID not exposed) for the scene; headline, figures and handwriting rendered in code from the Anton and Gloria Hallelujah font files",
+      "note": "Interior slide 3 of the final deck. $34B accounting charge plus about $8B remaining net loss makes the $42B on the cover. The two objects are not to scale and the slide lacks an 'Illustrative comparison' label; add one when you reuse this pattern. Figures attributed to a Reuters report dated 28 September 2026 (USD, 2025 financial year). They belong to that dated source; do not reuse them for another topic."
+    }
+  ]
+}
