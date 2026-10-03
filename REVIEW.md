@@ -30,8 +30,8 @@ Every PNG original was viewed at full size and again at phone size (432 × 540).
 | Claude Code | **Passed.** Installed from the ZIP into a fresh project's `.claude/skills/` and run headless with Sonnet. It loaded the skill, read the references, flagged a contradiction in the test idea instead of inventing figures, planned in chat with a story-led slide count, put the measured chart in code, used a "save this" ending because no resource existed, and named its real image tool without claiming output. |
 | Claude (claude.ai upload) | Not tested. Needs an account upload through Customize > Skills. |
 | ChatGPT | Not tested. |
-| Codex | Not tested. |
-| Image generation through the skill | Not tested. The bundled images come from earlier production sessions, not from this package. |
+| Codex | **Passed.** Codex CLI read the skill from a folder and made a four-slide carousel with its built-in image tool, inspected it at full and phone size, fixed four defects and reported its tool honestly. The configured default model was refused on a ChatGPT-account login, so it ran on gpt-5.6-sol. |
+| Image generation through the skill | **Passed in Claude and Codex.** Same brief in both; see `examples/live-tests/`. |
 
 ## Provenance of the examples
 

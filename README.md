@@ -14,7 +14,13 @@ A skill that helps any AI assistant turn an idea, reel, post or article into a c
 
 ## Starting points
 
-Fifteen examples, each showing a different way to make a slide teach. Click one for full size. None of them sets your colours, fonts, people, wording or layout. What each one teaches, and what to watch for, is in the [examples guide](skills/business-carousels/references/examples.md); the prompts behind them are in [example prompts](skills/business-carousels/references/example-prompts.md).
+Twenty-three examples, each showing a different way to make a slide teach. Click one for full size. None of them sets your colours, fonts, people, wording or layout. What each one teaches, and what to watch for, is in the [examples guide](skills/business-carousels/references/examples.md); the prompts behind them are in [example prompts](skills/business-carousels/references/example-prompts.md).
+
+**Same brief, two assistants**
+
+The same skill and plumbing brief, run in Claude and in Codex. Different looks, same teaching. Slides, prompts and what each one fixed: [live tests](examples/live-tests/README.md).
+
+<a href="showcase/07-same-brief-two-assistants.png"><img src="showcase/07-same-brief-two-assistants.png" width="760" alt="The same four-slide plumbing carousel made in Claude (top row) and in Codex (bottom row)."></a>
 
 **Trades and products**
 
@@ -53,7 +59,8 @@ Examples 01 to 15 are fictional demonstrations: invented businesses and generate
 | [SETUP-PROMPT.md](SETUP-PROMPT.md) | Copy-paste install for Claude Code and Codex |
 | [PROMPT.md](PROMPT.md) | One copy-paste prompt that works in any chat |
 | [QUICKSTART.md](QUICKSTART.md) | Setup notes for Claude, Claude Code, ChatGPT and Codex |
-| `examples/` | Full-size originals and phone-size versions |
+| `examples/` | Full-size originals, phone-size versions and the two live-test carousels |
+| `showcase/` | Ready-made panels for sharing: hero, Claude vs Codex, covers, type styles, interiors |
 | `gallery.html` | Captioned gallery to open locally |
 | [GENERATION-PROMPTS.json](GENERATION-PROMPTS.json) | The prompts behind the examples |
 | `fonts/` | Anton and Gloria Hallelujah with their open font licences (examples 21 to 25) |
