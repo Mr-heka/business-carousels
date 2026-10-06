@@ -8,13 +8,13 @@ A skill that helps any AI assistant turn an idea, reel, post or article into a c
 
 | You use | Do this |
 | --- | --- |
-| Claude Code or Codex | Paste the block in [SETUP-PROMPT.md](SETUP-PROMPT.md) into your agent |
+| Claude Code or Codex | Paste the block in [SETUP-PROMPT.md](SETUP-PROMPT.md) into your agent ([download the source prompt](https://raw.githubusercontent.com/SelrAI-Skool-Community/business-carousels/main/SETUP-PROMPT.md)) |
 | Claude (web or app) or ChatGPT | Paste [PROMPT.md](PROMPT.md) into a chat and attach your files |
 | Anything else | See [QUICKSTART.md](QUICKSTART.md) |
 
 ## Starting points
 
-Twenty-three examples, each showing a different way to make a slide teach. Click one for full size. None of them sets your colours, fonts, people, wording or layout. What each one teaches, and what to watch for, is in the [examples guide](skills/business-carousels/references/examples.md); the prompts behind them are in [example prompts](skills/business-carousels/references/example-prompts.md).
+Fifteen examples, each showing a different way to make a slide teach. Click one for full size. None of them sets your colours, fonts, people, wording or layout. What each one teaches, and what to watch for, is in the [examples guide](skills/business-carousels/references/examples.md); the prompts behind them are in [example prompts](skills/business-carousels/references/example-prompts.md).
 
 **Same brief, two assistants**
 

@@ -16,9 +16,9 @@ Claude plans, writes and builds layouts, diagrams and charts in HTML or SVG, and
 
 ## Claude Code
 
-1. Paste the block from [SETUP-PROMPT.md](SETUP-PROMPT.md) into Claude Code, or copy the `skills/business-carousels` folder (with its `references` and `assets` folders) to `~/.claude/skills/business-carousels/` yourself.
+1. Paste the installation block from [SETUP-PROMPT.md](SETUP-PROMPT.md) into Claude Code.
 2. In Claude Code, type `/business-carousels` or just ask for a carousel; the skill loads when relevant.
-3. For a one-off, you can instead say: "Read skills/business-carousels/SKILL.md and follow it."
+3. For a one-off, you can instead say: "Read ~/.claude/skills/business-carousels/SKILL.md and follow it."
 
 Images need an image tool or MCP server already connected in your setup. Without one, Claude Code can render HTML/SVG slides locally and write image prompts.
 
@@ -32,9 +32,9 @@ If your account has image generation, ChatGPT can make the slides directly. Chec
 
 ## Codex
 
-1. Paste the block from [SETUP-PROMPT.md](SETUP-PROMPT.md) into Codex, or copy the `skills/business-carousels` folder to `~/.agents/skills/business-carousels/` yourself.
+1. Paste the installation block from [SETUP-PROMPT.md](SETUP-PROMPT.md) into Codex.
 2. Invoke it with `$business-carousels`, or ask for a carousel and let Codex pick the skill.
-3. For a one-off: "Read skills/business-carousels/SKILL.md and follow it."
+3. For a one-off: "Read ~/.agents/skills/business-carousels/SKILL.md and follow it."
 
 Some Codex environments include image generation; others don't. The skill checks before promising images.
 
